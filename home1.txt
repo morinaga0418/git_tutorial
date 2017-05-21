@@ -1,1 +1,2 @@
 home1
+exc git pull
